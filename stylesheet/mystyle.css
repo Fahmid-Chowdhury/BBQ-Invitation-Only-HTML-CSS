@@ -1,0 +1,44 @@
+p, li {
+    color: red;
+    font-size: 18px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+h1 {
+    margin: 5px 5px;
+    color: rgb(0, 195, 255);
+    font-size: 55px;
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(98, 39, 112);
+    text-shadow: -3px -3px 2px rgb(232, 12, 240);
+}
+#quote {
+    font-style: italic;
+}
+.para {
+    font-weight: 1000;
+    color: rgb(102, 35, 87);
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    margin: 10px auto;
+    padding: 0 20px 20px 20px;
+    width: 60%;
+    width: 600px;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: bisque;
+}
+
+html {
+    background-color: rgb(255, 251, 2);
+}
+
+img {
+    display: block;
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+    border: 5px solid rgb(0, 0, 0);
+    /* box-shadow: 5px 5px 5px rgb(0, 0, 0); */
+}
