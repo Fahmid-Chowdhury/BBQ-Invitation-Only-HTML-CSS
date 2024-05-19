@@ -11,7 +11,7 @@ hr {
 
 p {
     color: rgb(255, 0, 0);
-    font-size: 25px;
+    font-size: 20px;
     line-height: 1.5;
     letter-spacing: 1px;
     text-align: justify;
@@ -22,7 +22,7 @@ h1 {
     color: rgb(0, 195, 255);
     font-size: 60px;
     text-align: center;
-    padding: 30px;
+    padding: 10px;
     background-color: rgb(98, 39, 112);
     text-shadow: -3px -3px 2px rgb(232, 12, 240);
 }
@@ -32,9 +32,19 @@ h2 {
     color: rgb(0, 153, 255);
     font-size: 40px;
     text-align: center;
-    /* padding: 30px;
-    background-color: rgb(98, 39, 112); */
+    /* padding: 30px; */
+    /* background-color: rgb(98, 39, 112); */
     text-shadow: -2px -1px 2px rgb(187, 27, 88);
+}
+
+h3 {
+    color: rgb(102, 35, 87);
+    font-size: 25px;
+    font-weight: 1000;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #quote {
@@ -45,7 +55,7 @@ h2 {
 
 .para {
     font-weight: 1000;
-    color: rgb(102, 35, 87);
+    color: rgb(62, 160, 163);
     font-family: Arial, Helvetica, sans-serif;
 }
 
