@@ -1,2 +1,2 @@
 ## BBQ-Invitation-Only-HTML-CSS
-invitation to my friends bbq party.
+Invitation to my friends bbq party.
