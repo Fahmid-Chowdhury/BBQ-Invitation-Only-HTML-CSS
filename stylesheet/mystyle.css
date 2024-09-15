@@ -1,8 +1,16 @@
 li {
-    color: red;
+    color: rgb(0, 0, 0);
     font-size: 20px;
     line-height: 1.5;
     letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    width: 20%;
+    height: 20%;
+    margin: 0 auto;
+    border: 5px solid rgb(0, 0, 0);
 }
 
 hr {
@@ -23,13 +31,13 @@ h1 {
     font-size: 60px;
     text-align: center;
     padding: 10px;
-    background-color: rgb(98, 39, 112);
-    text-shadow: -3px -3px 2px rgb(232, 12, 240);
+    background-color: rgb(37, 22, 41);
+    text-shadow: -3px -3px 2px rgb(84, 69, 85);
 }
 
 h2 {
     margin: 0px 0px;
-    color: rgb(0, 153, 255);
+    color: rgb(255, 125, 248);
     font-size: 40px;
     text-align: center;
     /* padding: 30px; */
@@ -49,13 +57,13 @@ h3 {
 
 #quote {
     font-style: italic;
-    color : rgb(231, 14, 202);
+    color : rgb(168, 12, 129);
     font-size: 30px;
 }
 
 .para {
     font-weight: 1000;
-    color: rgb(62, 160, 163);
+    color: rgb(248, 3, 85);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -65,11 +73,11 @@ body {
     width: 60%;
     width: 800px;
     border: 5px solid rgb(0, 0, 0);
-    background-color: bisque;
+    background-color: rgb(207, 167, 212);
 }
 
 html {
-    background-color: rgb(255, 251, 2);
+    background-color: rgb(28, 29, 75);
 }
 
 img {
